@@ -1,0 +1,1790 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.590082,
+          12.9767936
+        ]
+      },
+      "properties": {
+        "id": "2038443619456352300",
+        "text": "🌧️ ಬೆಂಗಳೂರು ಮಳೆ 🌧️✨ Bengaluru Rains ✨🌧️ \r\n\r\n🎥 Whether it’s the sound of raindrops, the rush of traffic, or the calm of home balconies, t\r\n\r\n#BengaluruRains #MonsoonVibes #BangaloreWeather #RainyDayMood #ViralReel\r\n                 https://t.co/6jd7MicSPC",
+        "created_at": "2026-03-30 02:30:05+00:00",
+        "cluster_label": "Tier 1 City Problems",
+        "cluster_title": "Bengaluru Traffic and IPL Updates",
+        "ctfidf_keywords": "traffic | bengaluru | ipl | match | police | rcb | road | parking",
+        "location_name": "bengaluru",
+        "umap_x": 3.695943,
+        "umap_y": 10.323786
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.590082,
+          12.9767936
+        ]
+      },
+      "properties": {
+        "id": "2037573662027743283",
+        "text": "If traffic wasn’t enough, now what's with the heat waves !!! It's so f..kng hot in Bengaluru now. #Blr",
+        "created_at": "2026-03-27 16:53:11+00:00",
+        "cluster_label": "Tier 1 City Problems",
+        "cluster_title": "Bengaluru Traffic and IPL Updates",
+        "ctfidf_keywords": "traffic | bengaluru | ipl | match | police | rcb | road | parking",
+        "location_name": "bengaluru",
+        "umap_x": 3.9740674,
+        "umap_y": 10.434867
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.590082,
+          12.9767936
+        ]
+      },
+      "properties": {
+        "id": "2037920976298758508",
+        "text": "#RCBvsSRH Stuck in Bengaluru traffic!! Call Phil Salt....",
+        "created_at": "2026-03-28 15:53:18+00:00",
+        "cluster_label": "Tier 1 City Problems",
+        "cluster_title": "Bengaluru Traffic and IPL Updates",
+        "ctfidf_keywords": "traffic | bengaluru | ipl | match | police | rcb | road | parking",
+        "location_name": "bengaluru",
+        "umap_x": 3.4890175,
+        "umap_y": 10.424575
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.590082,
+          12.9767936
+        ]
+      },
+      "properties": {
+        "id": "2037879089483440344",
+        "text": "All roads in Bengaluru converge at the Chinnaswamy today. So please avoid going through that route. U will be stuck in traffic for ages altogether.",
+        "created_at": "2026-03-28 13:06:51+00:00",
+        "cluster_label": "Tier 1 City Problems",
+        "cluster_title": "Bengaluru Traffic and IPL Updates",
+        "ctfidf_keywords": "traffic | bengaluru | ipl | match | police | rcb | road | parking",
+        "location_name": "bengaluru",
+        "umap_x": 3.5030823,
+        "umap_y": 9.473692
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8692035,
+          19.054999
+        ]
+      },
+      "properties": {
+        "id": "2037810392790135138",
+        "text": "Tier 1 cities like Delhi, Mumbai, Bengaluru are the worst places to live. It's like a constant war, lawlessness, hostility, road rage &amp; accidents, unaffordable rent &amp; education fees, adulterated food, pollution, traffic and list never stops. https://t.co/E58QJRkRjI",
+        "created_at": "2026-03-28 08:33:52+00:00",
+        "cluster_label": "Tier 1 City Problems",
+        "cluster_title": "Bengaluru Traffic and IPL Updates",
+        "ctfidf_keywords": "traffic | bengaluru | ipl | match | police | rcb | road | parking",
+        "location_name": "mumbai",
+        "umap_x": 2.640608,
+        "umap_y": 9.905443
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.590082,
+          12.9767936
+        ]
+      },
+      "properties": {
+        "id": "2037952483314827647",
+        "text": "Bengaluru is heaven for bachelors if traffic is removed.",
+        "created_at": "2026-03-28 17:58:30+00:00",
+        "cluster_label": "Tier 1 City Problems",
+        "cluster_title": "Bengaluru Traffic and IPL Updates",
+        "ctfidf_keywords": "traffic | bengaluru | ipl | match | police | rcb | road | parking",
+        "location_name": "bengaluru",
+        "umap_x": 4.7955923,
+        "umap_y": 9.797882
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.590082,
+          12.9767936
+        ]
+      },
+      "properties": {
+        "id": "2038117794412478684",
+        "text": "629 companies shifted from Bengaluru in 5 years due to high costs &amp; traffic.\r\n\r\nExpansion now moving towards Hyderabad 🚀 https://t.co/ucHSqOdqPn",
+        "created_at": "2026-03-29 04:55:23+00:00",
+        "cluster_label": "Tier 1 City Problems",
+        "cluster_title": "Bengaluru Traffic and IPL Updates",
+        "ctfidf_keywords": "traffic | bengaluru | ipl | match | police | rcb | road | parking",
+        "location_name": "bengaluru",
+        "umap_x": 4.788351,
+        "umap_y": 9.885867
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.2090057,
+          28.6138954
+        ]
+      },
+      "properties": {
+        "id": "2037525040695296307",
+        "text": "🚨 A commuter in Delhi spends 104 hours per year in traffic, while a commuter in Bengaluru spends 168 hours per year. The traffic has turned metro cities into giant parking lots with people trapped inside them: Raghav Chadha in Parliament https://t.co/nwh4LvZGQE",
+        "created_at": "2026-03-27 13:39:59+00:00",
+        "cluster_label": "Politics",
+        "cluster_title": "Conservative News and Commentary",
+        "ctfidf_keywords": "hegseth | army | fox | randy | george | pete | trump | chief",
+        "location_name": "delhi",
+        "umap_x": 4.0493917,
+        "umap_y": 9.688521
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.590082,
+          12.9767936
+        ]
+      },
+      "properties": {
+        "id": "2037519704999526844",
+        "text": "#WATCH | AAP MP Raghav Chadha tweets, \"Traffic has turned our metro cities into giant parking lots with people trapped inside them. In Bengaluru, Pune, Mumbai, Kolkata, Delhi and Chennai, on average a commuter spends 100 to 168 hours a year stuck in traffic. Not commuting. Just https://t.co/4dvjEzf1to",
+        "created_at": "2026-03-27 13:18:47+00:00",
+        "cluster_label": "Politics",
+        "cluster_title": "Conservative News and Commentary",
+        "ctfidf_keywords": "hegseth | army | fox | randy | george | pete | trump | chief",
+        "location_name": "bengaluru",
+        "umap_x": 4.689511,
+        "umap_y": 10.275668
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.590082,
+          12.9767936
+        ]
+      },
+      "properties": {
+        "id": "2037732049176690978",
+        "text": "AAP MP @raghav_chadha posts, \"Traffic has turned our metro cities into giant parking lots with people trapped inside them. In #Bengaluru, #Pune, #Mumbai, #Kolkata, #Delhi and #Chennai, on average a commuter spends 100 to 168 hours a year stuck in traffic. Not commuting. Just https://t.co/NORFORcJrV",
+        "created_at": "2026-03-28 03:22:34+00:00",
+        "cluster_label": "Tier 1 City Problems",
+        "cluster_title": "Bengaluru Traffic and IPL Updates",
+        "ctfidf_keywords": "traffic | bengaluru | ipl | match | police | rcb | road | parking",
+        "location_name": "bengaluru",
+        "umap_x": 4.34546,
+        "umap_y": 9.993404
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038125883425468677",
+        "text": "AAP MP Raghav Chadha urged a National Urban Decongestion Mission to combat traffic woes in India He highlighted major congestion hotspots in Delhi, Kolkata, Bengaluru, Mumbai, Pune, and Chennai Commuters spend 100-168 hours yearly stuck in traffic, severely impacting productivity",
+        "created_at": "2026-03-29 05:27:31+00:00",
+        "cluster_label": "Tier 1 City Problems",
+        "cluster_title": "Bengaluru Traffic and IPL Updates",
+        "ctfidf_keywords": "traffic | bengaluru | ipl | match | police | rcb | road | parking",
+        "location_name": "india",
+        "umap_x": 3.9473803,
+        "umap_y": 10.53217
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.8692035,
+          19.054999
+        ]
+      },
+      "properties": {
+        "id": "2037885927302041806",
+        "text": "Worst experience I have had in indigo while traveling from Mumbai to Bengaluru. They blame ATC saying traffic congestion and delay flights endlessly. 5 years down the line, akasa will wipe u off. @IndiGo6E @IndiGo6E",
+        "created_at": "2026-03-28 13:34:01+00:00",
+        "cluster_label": "Tier 1 City Problems",
+        "cluster_title": "Bengaluru Traffic and IPL Updates",
+        "ctfidf_keywords": "traffic | bengaluru | ipl | match | police | rcb | road | parking",
+        "location_name": "mumbai",
+        "umap_x": 3.677552,
+        "umap_y": 9.766321
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.590082,
+          12.9767936
+        ]
+      },
+      "properties": {
+        "id": "2037501328407285974",
+        "text": "RCB match triggers major traffic curbs in Bengaluru on March 28: Full road closure, parking &amp; entry details\r\n\r\n#BengaluruTraffic #RCBMatch #IPL2026 #TrafficAlert #ChinnaswamyStadium\r\n\r\nRead more:\r\nhttps://t.co/NVf8M00LdM",
+        "created_at": "2026-03-27 12:05:46+00:00",
+        "cluster_label": "Tier 1 City Problems",
+        "cluster_title": "Bengaluru Traffic and IPL Updates",
+        "ctfidf_keywords": "traffic | bengaluru | ipl | match | police | rcb | road | parking",
+        "location_name": "bengaluru",
+        "umap_x": 2.653912,
+        "umap_y": 9.851143
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.590082,
+          12.9767936
+        ]
+      },
+      "properties": {
+        "id": "2038311515351396636",
+        "text": "Need urgent police intervention at Karan Aujla concert in Bengaluru, there's not a single traffic police at exit and the whole area is now gridlocked , no internet nothing @blrcitytraffic @ChristinMP_",
+        "created_at": "2026-03-29 17:45:09+00:00",
+        "cluster_label": "Tier 1 City Problems",
+        "cluster_title": "Bengaluru Traffic and IPL Updates",
+        "ctfidf_keywords": "traffic | bengaluru | ipl | match | police | rcb | road | parking",
+        "location_name": "bengaluru",
+        "umap_x": 3.2592607,
+        "umap_y": 10.257795
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.590082,
+          12.9767936
+        ]
+      },
+      "properties": {
+        "id": "2038407440329531752",
+        "text": "Saw one video yesterday, northie screaming out this lungs in Hindi towards a kannadiga in Bengaluru for driving his scooter in footpath.\r\n\r\nForget the traffic crime for a moment &amp;there are cops for that.\r\n\r\nIf that happened in Chennai it would’ve turned ugly and northie would’ve to https://t.co/qRaHcrB0RS",
+        "created_at": "2026-03-30 00:06:20+00:00",
+        "cluster_label": "Politics",
+        "cluster_title": "Conservative News and Commentary",
+        "ctfidf_keywords": "hegseth | army | fox | randy | george | pete | trump | chief",
+        "location_name": "bengaluru",
+        "umap_x": 2.6234026,
+        "umap_y": 10.016483
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.590082,
+          12.9767936
+        ]
+      },
+      "properties": {
+        "id": "2038299450683294149",
+        "text": "The breath analyser traffic police after rain in bengaluru \r\nAre like frogs waiting for drunk inscets\r\nHeavily maefesting one drunk idiot\r\n#bengaluruthings\r\n#bengalururain",
+        "created_at": "2026-03-29 16:57:13+00:00",
+        "cluster_label": "Tier 1 City Problems",
+        "cluster_title": "Bengaluru Traffic and IPL Updates",
+        "ctfidf_keywords": "traffic | bengaluru | ipl | match | police | rcb | road | parking",
+        "location_name": "bengaluru",
+        "umap_x": 2.5779023,
+        "umap_y": 9.930678
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038200894547005518",
+        "text": "This flow is like pipe line, flow should be continuous, break ,( not breaking news) delay in reaching India will lockdown many business \r\nhttps://t.co/4BgBrEcqZJ",
+        "created_at": "2026-03-29 10:25:35+00:00",
+        "cluster_label": "Politics",
+        "cluster_title": "Conservative News and Commentary",
+        "ctfidf_keywords": "hegseth | army | fox | randy | george | pete | trump | chief",
+        "location_name": "india",
+        "umap_x": 4.3763285,
+        "umap_y": 10.431118
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.590082,
+          12.9767936
+        ]
+      },
+      "properties": {
+        "id": "2037826012202086667",
+        "text": "In Bengaluru, the Ejipura Flyover has been under construction for years.\r\n\r\nDeadlines came… and went.\r\nBudgets increased… work slowed.\r\nCommuters kept waiting.\r\n\r\nA project meant to ease traffic\r\nturned into a symbol of delay.\r\n\r\nNow compare this 👇\r\n\r\nIn another part of India, a massive https://t.co/PKUdYCw5Wm",
+        "created_at": "2026-03-28 09:35:56+00:00",
+        "cluster_label": "Infrastructure",
+        "cluster_title": "Bengaluru Traffic and Infrastructure Updates",
+        "ctfidf_keywords": "traffic | bengaluru | 810 | crore | junction | ease | boost | connectivity",
+        "location_name": "bengaluru",
+        "umap_x": 4.2911777,
+        "umap_y": 10.511833
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038257824179146814",
+        "text": "🔥 This is BIG.\r\nNot just another headline — this has serious implications that people need to pay attention to.\r\nThe narrative is shifting, and moments like this often get buried in noise. Don’t let that happen.\r\nWatch closely.\r\n\r\n👇 Your thoughts?\r\n\r\n#Breaking #India #News #Trending https://t.co/88FMljiV9a",
+        "created_at": "2026-03-29 14:11:48+00:00",
+        "cluster_label": "Tier 1 City Problems",
+        "cluster_title": "Bengaluru Traffic and IPL Updates",
+        "ctfidf_keywords": "traffic | bengaluru | ipl | match | police | rcb | road | parking",
+        "location_name": "india",
+        "umap_x": 4.633313,
+        "umap_y": 9.790445
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038165495808192764",
+        "text": "🚨 BREAKING: Politics in India is intensifying fast.\r\n\r\nFrom Mamata Banerjee to Amit Shah to #PMModi, narratives are clashing in real time.\r\n\r\nThis isn’t just news. It’s power in motion. What do you think matters most right now? 👇\r\n\r\n#Politics #India #PMModi",
+        "created_at": "2026-03-29 08:04:56+00:00",
+        "cluster_label": "Politics",
+        "cluster_title": "Conservative News and Commentary",
+        "ctfidf_keywords": "hegseth | army | fox | randy | george | pete | trump | chief",
+        "location_name": "india",
+        "umap_x": 2.64159,
+        "umap_y": 9.911459
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038177903293366471",
+        "text": "🚨 Huge Breaking News 🚨\r\n\r\nModi will no longer remain Prime Minister.\r\n\r\nAccording to a Weshington Post report, the CIA and ISI have decided to initiate a regime change in India.\r\n\r\nIt is claimed that Asim Munir and Trump are not in favor of Modi, therefore a new government will be",
+        "created_at": "2026-03-29 08:54:14+00:00",
+        "cluster_label": "Politics",
+        "cluster_title": "Conservative News and Commentary",
+        "ctfidf_keywords": "hegseth | army | fox | randy | george | pete | trump | chief",
+        "location_name": "india",
+        "umap_x": 3.9759784,
+        "umap_y": 9.601546
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          66.2385139,
+          33.7680065
+        ]
+      },
+      "properties": {
+        "id": "2038176178851475494",
+        "text": "🚨 BREAKING NEWS 🚨\r\n\r\nIn a major policy move, India’s Home Ministry, led by Amit Shah, has announced that certain non-Muslim migrants from Afghanistan, Bangladesh, and Pakistan will be allowed to stay in India even without valid passports or travel documents. 🇮🇳⚖️ This applies to https://t.co/sAfAtSMMEi",
+        "created_at": "2026-03-29 08:47:23+00:00",
+        "cluster_label": "Politics",
+        "cluster_title": "Conservative News and Commentary",
+        "ctfidf_keywords": "hegseth | army | fox | randy | george | pete | trump | chief",
+        "location_name": "afghanistan",
+        "umap_x": 2.8531473,
+        "umap_y": 9.562006
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038171741344972859",
+        "text": "Breaking News:\r\nIndia shows d world what is meant by being a friend.\r\nIndia has delivered 38,000 metric tonnes (MT) of petroleum to Sri Lanka as Colombo grapples wid supply disruptions triggered by d ongoing West Asia conflict, Indian High Commission in Colombo said on Saturday. https://t.co/UCxlxDH5h4",
+        "created_at": "2026-03-29 08:29:45+00:00",
+        "cluster_label": "Global Conflict And Politics",
+        "cluster_title": "MP David Kiaraho Death",
+        "ctfidf_keywords": "david | kiaraho | treatment | receiving | kalou | while | iranian | njuguna",
+        "location_name": "india",
+        "umap_x": 3.7550538,
+        "umap_y": 10.387236
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038280957594099808",
+        "text": "India ships 38,000 MT of fuel to Sri Lanka amid West Asia crisis and local… \r\nhttps://t.co/y1CZzuCNhf\r\n\r\n#News #LatestNews #BreakingNews #Breaking",
+        "created_at": "2026-03-29 15:43:44+00:00",
+        "cluster_label": "Global Conflict And Politics",
+        "cluster_title": "MP David Kiaraho Death",
+        "ctfidf_keywords": "david | kiaraho | treatment | receiving | kalou | while | iranian | njuguna",
+        "location_name": "india",
+        "umap_x": 6.7717876,
+        "umap_y": 4.510064
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038281139903688822",
+        "text": "India ships 38,000 MT of fuel to Sri Lanka amid West Asia crisis and local… \r\nhttps://t.co/y1CZzuCNhf\r\n\r\n#news #breaking",
+        "created_at": "2026-03-29 15:44:27+00:00",
+        "cluster_label": "Global Conflict And Politics",
+        "cluster_title": "MP David Kiaraho Death",
+        "ctfidf_keywords": "david | kiaraho | treatment | receiving | kalou | while | iranian | njuguna",
+        "location_name": "india",
+        "umap_x": 7.7041984,
+        "umap_y": 5.176228
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038320208172163548",
+        "text": "#BREAKING 🚨 INDIA HELPING BANGLADESH\r\n\r\nIndia supplies 5,000 tons of diesel to Bangladesh amid fuel crisis. This is getting highlighted as 🚨BIG BAD NEWS 🚨but understand -\r\n\r\nIndia's monthly diesel consumption is ~260,000 tonnes a day.",
+        "created_at": "2026-03-29 18:19:42+00:00",
+        "cluster_label": "Global Conflict And Politics",
+        "cluster_title": "MP David Kiaraho Death",
+        "ctfidf_keywords": "david | kiaraho | treatment | receiving | kalou | while | iranian | njuguna",
+        "location_name": "india",
+        "umap_x": 7.5778933,
+        "umap_y": 4.941835
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -53.2,
+          -10.3333333
+        ]
+      },
+      "properties": {
+        "id": "2038211340821811694",
+        "text": "Breaking News 🚨 \r\n\r\nBrazil pitches HIGHER crude supplies to India and explores refining partnerships, with BPCL contracting 12M barrels for FY27. \r\n\r\nIndia’s refining capacity stands at 258 mtpa. \r\n\r\nBilateral trade reached $15.21 BILLION in 2025. https://t.co/rqRiov2w0a",
+        "created_at": "2026-03-29 11:07:06+00:00",
+        "cluster_label": "Global Conflict And Politics",
+        "cluster_title": "MP David Kiaraho Death",
+        "ctfidf_keywords": "david | kiaraho | treatment | receiving | kalou | while | iranian | njuguna",
+        "location_name": "brazil",
+        "umap_x": 7.971109,
+        "umap_y": 5.0433164
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          42.3528328,
+          25.6242618
+        ]
+      },
+      "properties": {
+        "id": "2038302684550156594",
+        "text": "\"BREAKING NEWS: \r\nSaudi Arabia no longer needs the Strait of #Hormuz for its oil exports. \r\n\r\nThe East-West pipeline is now operating at full capacity, 7 million barrels per day, ensuring direct supply to the main importing countries: \r\n\r\n• 🇨🇳China — 37.7% \r\n• 📷India — 14.7% \r\n• https://t.co/4ixbit06XA",
+        "created_at": "2026-03-29 17:10:04+00:00",
+        "cluster_label": "Global Conflict And Politics",
+        "cluster_title": "MP David Kiaraho Death",
+        "ctfidf_keywords": "david | kiaraho | treatment | receiving | kalou | while | iranian | njuguna",
+        "location_name": "saudi arabia",
+        "umap_x": 8.171363,
+        "umap_y": 5.0347223
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.5643516,
+          32.6475314
+        ]
+      },
+      "properties": {
+        "id": "2038455169411940773",
+        "text": "🚨BIG BREAKING\r\n\r\n🇮🇷 Iran attacks a desalination plant in Kuwait, killing an Indian worker. \r\n\r\n📌Sad news for India😥",
+        "created_at": "2026-03-30 03:15:59+00:00",
+        "cluster_label": "Global Conflict And Politics",
+        "cluster_title": "MP David Kiaraho Death",
+        "ctfidf_keywords": "david | kiaraho | treatment | receiving | kalou | while | iranian | njuguna",
+        "location_name": "iran",
+        "umap_x": 6.9231343,
+        "umap_y": 5.010909
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.5643516,
+          32.6475314
+        ]
+      },
+      "properties": {
+        "id": "2039929659371262421",
+        "text": "US breaking —\r\nIran vs US-Israel War News Live Updates: Trump warns US will target Iranian bridges and power plants next — Indian Express\r\n#IranWar #USA #WhiteHouse #USpolitics #BreakingNews #WorldNews",
+        "created_at": "2026-04-03 04:55:05+00:00",
+        "cluster_label": "Global Conflict And Politics",
+        "cluster_title": "MP David Kiaraho Death",
+        "ctfidf_keywords": "david | kiaraho | treatment | receiving | kalou | while | iranian | njuguna",
+        "location_name": "iran",
+        "umap_x": 6.62897,
+        "umap_y": 4.0391717
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          17.6871599,
+          48.7005763
+        ]
+      },
+      "properties": {
+        "id": "2038318332747931699",
+        "text": "🧵 BREAKING: Major power outages have been reported in the Iranian city of Karaj following a fresh round of U.S.–Israeli airstrikes, with local infrastructure hit overnight, according to international media. \r\nThe Times of India\r\nSource: Anadolu &amp; Iran International news agencies. https://t.co/71vJg8FS5Z",
+        "created_at": "2026-03-29 18:12:15+00:00",
+        "cluster_label": "Global Conflict And Politics",
+        "cluster_title": "MP David Kiaraho Death",
+        "ctfidf_keywords": "david | kiaraho | treatment | receiving | kalou | while | iranian | njuguna",
+        "location_name": "karaj",
+        "umap_x": 8.285942,
+        "umap_y": 5.4699335
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.5643516,
+          32.6475314
+        ]
+      },
+      "properties": {
+        "id": "2039828963850059862",
+        "text": "BREAKING IRAN NEWS ALERT 🚨\r\nU.S. Embassy in Albania warns Iran-linked groups may target U.S. institutions and the PMOI. Public places like tourist sites, malls, hotels, clubs, and restaurants could also be targeted. Citizens urged to stay alert and review security.",
+        "created_at": "2026-04-02 22:14:57+00:00",
+        "cluster_label": "Politics",
+        "cluster_title": "Conservative News and Commentary",
+        "ctfidf_keywords": "hegseth | army | fox | randy | george | pete | trump | chief",
+        "location_name": "iran",
+        "umap_x": 7.02496,
+        "umap_y": 4.8760395
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.0,
+          51.0
+        ]
+      },
+      "properties": {
+        "id": "2039886493712609730",
+        "text": "🚨 SECURITY ALERT: Governments and law enforcement are monitoring reported threats to places of worship.\r\n\r\nPublic advised to stay alert and report suspicious activity. 🔥\r\n\r\n#Security #Breaking #Safety #US #Europe #Alert #News",
+        "created_at": "2026-04-03 02:03:34+00:00",
+        "cluster_label": "Politics",
+        "cluster_title": "Conservative News and Commentary",
+        "ctfidf_keywords": "hegseth | army | fox | randy | george | pete | trump | chief",
+        "location_name": "europe",
+        "umap_x": 7.771148,
+        "umap_y": 4.624216
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898151,
+          33.7544657
+        ]
+      },
+      "properties": {
+        "id": "2039889907745718283",
+        "text": "💊 +39% profit on a prediction market bet.\r\n\r\nMarket: Atlanta Braves vs. Arizona Diamondbacks: Atlanta B\r\nSide: YES\r\n\r\nAI found the edge by reading breaking news before the market priced it in.\r\n\r\n#Polymarket #PredictionMarkets #AI",
+        "created_at": "2026-04-03 02:17:07+00:00",
+        "cluster_label": "Cryptocurrency News",
+        "cluster_title": "Crypto Market Support News",
+        "ctfidf_keywords": "market | crypto | support | coin | filter | profit | prediction | bet",
+        "location_name": "atlanta",
+        "umap_x": 13.343887,
+        "umap_y": 3.4360218
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.2394179,
+          36.5748441
+        ]
+      },
+      "properties": {
+        "id": "2039924269535334782",
+        "text": "Today in AI  — April 3, 2026\r\n\r\n🔴 Breaking:\r\n&gt;Alibaba Drops 3 AI Models in 3 Days\r\n&gt;Perplexity Sued Over Sharing Chats With Meta &amp; Google\r\n&gt;OpenAI Buys Tech News Show TBPN\r\n&gt;Microsoft Invests $10B in Japan AI Infrastructure\r\n\r\n🚀 Launches:\r\n&gt;Google Gemma 4 Runs Offline on Your Phone",
+        "created_at": "2026-04-03 04:33:40+00:00",
+        "cluster_label": "Artificial Intelligence",
+        "cluster_title": "AI Model Deals and Controversies",
+        "ctfidf_keywords": "models | over | gtalibaba | drops | gtperplexity | sued | sharing | chats",
+        "location_name": "japan",
+        "umap_x": 7.5945125,
+        "umap_y": 4.7631483
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          12.3215818,
+          8.6964628
+        ]
+      },
+      "properties": {
+        "id": "2039924167408300224",
+        "text": "Breaking news alert Heather Jada sells HER PUSSY FOR ONE PENNY ALL DAY EVERYDAY BITCH",
+        "created_at": "2026-04-03 04:33:16+00:00",
+        "cluster_label": "Social Media",
+        "cluster_title": "Breaking News Satire and Memes",
+        "ctfidf_keywords": "viral | bareilly | social | awareness | whats | looking | his | public",
+        "location_name": "jada",
+        "umap_x": 13.410151,
+        "umap_y": 3.552499
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.445882,
+          39.7837304
+        ]
+      },
+      "properties": {
+        "id": "2039831708800008218",
+        "text": "BREAKING:\r\n\r\n🇺🇸 Tensions erupt at the top of the U.S. Army.\r\n\r\nPete Hegseth has reportedly pushed Army Chief Randy George to step down immediately, per CBS News sources.\r\n\r\nInsiders say Hegseth wants new leadership fully aligned with Donald Trump’s vision and ready to carry out their",
+        "created_at": "2026-04-02 22:25:52+00:00",
+        "cluster_label": "Politics",
+        "cluster_title": "Conservative News and Commentary",
+        "ctfidf_keywords": "hegseth | army | fox | randy | george | pete | trump | chief",
+        "location_name": "us",
+        "umap_x": 13.817972,
+        "umap_y": 3.6181388
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.5643516,
+          32.6475314
+        ]
+      },
+      "properties": {
+        "id": "2039881816153165957",
+        "text": "🚨BREAKING: US Secretary Of War Pete Hegseth Fires 12 High-Ranking Generals\r\n\r\nThis includes General Randy George, the head of the Army. \r\n\r\nThe latest report came from Fox News.\r\n\r\nIt appears as if this means a ground invasion of Iran is coming.",
+        "created_at": "2026-04-03 01:44:58+00:00",
+        "cluster_label": "Politics",
+        "cluster_title": "Conservative News and Commentary",
+        "ctfidf_keywords": "hegseth | army | fox | randy | george | pete | trump | chief",
+        "location_name": "iran",
+        "umap_x": 13.114474,
+        "umap_y": 3.276253
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038389875490300092",
+        "text": "🚨 BREAKING: Rajnath Singh chairs a high-level security meeting amid rising global tensions.\r\n\r\nNo official confirmation of any emergency measures. ⚠️\r\n\r\n#Breaking #India #RajnathSingh #Security #Update #Geopolitics #News",
+        "created_at": "2026-03-29 22:56:32+00:00",
+        "cluster_label": "Politics",
+        "cluster_title": "Conservative News and Commentary",
+        "ctfidf_keywords": "hegseth | army | fox | randy | george | pete | trump | chief",
+        "location_name": "india",
+        "umap_x": 12.032054,
+        "umap_y": 7.463863
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038337936287289473",
+        "text": "BREAKING: Indian Congress CAUGHT Spreading WILD FAKE NEWS About LPG Shortage Crisis! 😱 They’re Getting SLAPPED With Cold Hard FACTS… But Refuse To Admit It! Total Denial Mode Activated! \r\n\r\n#India #Politics #BJP #INC #IndianYouth https://t.co/X7F8UUsEix",
+        "created_at": "2026-03-29 19:30:09+00:00",
+        "cluster_label": "Politics",
+        "cluster_title": "Conservative News and Commentary",
+        "ctfidf_keywords": "hegseth | army | fox | randy | george | pete | trump | chief",
+        "location_name": "india",
+        "umap_x": 9.9600115,
+        "umap_y": 5.0261617
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038336828349219271",
+        "text": "INFYNIX News | Breaking\r\nGovernment of India bans @moliticsindia news account over alleged misinformation blamed, Critics warn of press freedom risks, while authorities defend the move as necessary to curb false narratives. Access now restricted within India.\r\n#Molitics #MIvsKKR https://t.co/LUAoTM9h88",
+        "created_at": "2026-03-29 19:25:45+00:00",
+        "cluster_label": "Politics",
+        "cluster_title": "Conservative News and Commentary",
+        "ctfidf_keywords": "hegseth | army | fox | randy | george | pete | trump | chief",
+        "location_name": "india",
+        "umap_x": 9.678459,
+        "umap_y": 4.1851683
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038171152531759590",
+        "text": "BREAKING NEWS \r\n\r\nDespite Indian armys polluting twitter with their misogynistc tweets, their faves BTS FAILS to debut in both BILLBOARD INDIA and IFPI Charts. \r\n\r\nThe versions and remixes seems not helping them infront of local songs. https://t.co/NVeAJMG9k3",
+        "created_at": "2026-03-29 08:27:24+00:00",
+        "cluster_label": "Politics",
+        "cluster_title": "Conservative News and Commentary",
+        "ctfidf_keywords": "hegseth | army | fox | randy | george | pete | trump | chief",
+        "location_name": "india",
+        "umap_x": 10.796157,
+        "umap_y": 4.656306
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038234309619028131",
+        "text": "🚨 Breaking News - OnePlus is pulling out from physical retail in India, expands service network via OPPO. https://t.co/z6ys2blxpm",
+        "created_at": "2026-03-29 12:38:22+00:00",
+        "cluster_label": "Indian Tech",
+        "cluster_title": "Tech Industry Business Updates",
+        "ctfidf_keywords": "app | pulling | ranks | oneplus | physical | retail | expands | service",
+        "location_name": "india",
+        "umap_x": 8.949878,
+        "umap_y": 4.9341307
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038236555241046350",
+        "text": "Breaking News Live ||  News @5 || Breaking News || Latest News || 29 March 2026 || News Tv India \r\n\r\n#NationalNews | #NationalNewsLive | #BreakingNews | #LatestNews | #NewsTvIndia | https://t.co/lPh8vjRBOc",
+        "created_at": "2026-03-29 12:47:18+00:00",
+        "cluster_label": "Politics",
+        "cluster_title": "Conservative News and Commentary",
+        "ctfidf_keywords": "hegseth | army | fox | randy | george | pete | trump | chief",
+        "location_name": "india",
+        "umap_x": 10.000967,
+        "umap_y": 4.2466908
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038279360919261433",
+        "text": "Bareilly news\r\nUttar Pradesh news\r\nPark incident\r\nViral news India\r\nSocial awareness\r\nPublic property respect\r\nGandhi statue inc\r\nIndia viral news\r\nBreaking news India\r\nLocal news UP\r\nAwareness post\r\nViral reel India\r\nPublic behavior\r\n📌 Hashtags\r\n#Bareilly\r\n#UttarPradesh\r\n#ViralNews\r\n#IndiaNews https://t.co/WqRZnzL26K",
+        "created_at": "2026-03-29 15:37:23+00:00",
+        "cluster_label": "Social Media",
+        "cluster_title": "Breaking News Satire and Memes",
+        "ctfidf_keywords": "viral | bareilly | social | awareness | whats | looking | his | public",
+        "location_name": "india",
+        "umap_x": 7.8838983,
+        "umap_y": 5.671437
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038171665041903937",
+        "text": "BREAKING NEWS\r\n\r\n930 pm last night \r\nMan from India mows down 9 in Derby car attack\r\n\r\nBaggy Shanker, the MP for Derby South, said his thoughts are with “everyone who has been affected and with their loved ones”\r\n\r\n#UKLabour @Conservatives @LibDems  @narindertweets @the_hindu",
+        "created_at": "2026-03-29 08:29:27+00:00",
+        "cluster_label": "Global Conflict And Politics",
+        "cluster_title": "MP David Kiaraho Death",
+        "ctfidf_keywords": "david | kiaraho | treatment | receiving | kalou | while | iranian | njuguna",
+        "location_name": "india",
+        "umap_x": 9.7697315,
+        "umap_y": 3.7694736
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038183688588964134",
+        "text": "BREAKING NEWS🚨\r\n\r\nDavid Kiaraho MP for Ol Kaluo has passed away while receiving treatment in India.\r\n\r\nFamily confirms.\r\n\r\nIts high time we equip our national hospital like KNH to avoid this external late referrals. \r\n\r\nMay his soul rest in peace.💔 https://t.co/Lh3qqzvYV0",
+        "created_at": "2026-03-29 09:17:13+00:00",
+        "cluster_label": "Global Conflict And Politics",
+        "cluster_title": "MP David Kiaraho Death",
+        "ctfidf_keywords": "david | kiaraho | treatment | receiving | kalou | while | iranian | njuguna",
+        "location_name": "india",
+        "umap_x": 9.514021,
+        "umap_y": 4.1230254
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038180919551644001",
+        "text": "Breaking News: Ol Kalou MP David Kiaraho has passed away while receiving treatment, as confirmed by Speaker Moses Wetang'ula. Reports are divided on whether it happened in India or Nairobi Hospital. Condolences to his family. RIP. #OlKalou #DavidKiaraho #Kenya https://t.co/iSYOoaEPTd",
+        "created_at": "2026-03-29 09:06:13+00:00",
+        "cluster_label": "Global Conflict And Politics",
+        "cluster_title": "MP David Kiaraho Death",
+        "ctfidf_keywords": "david | kiaraho | treatment | receiving | kalou | while | iranian | njuguna",
+        "location_name": "india",
+        "umap_x": 11.79361,
+        "umap_y": 7.4594603
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038164258811183194",
+        "text": "BREAKING NEWS: Ol Kalou MP David Kiaraho  is dead! He passed away in India while receiving treatment https://t.co/9vlnG3HuGZ",
+        "created_at": "2026-03-29 08:00:01+00:00",
+        "cluster_label": "Global Conflict And Politics",
+        "cluster_title": "MP David Kiaraho Death",
+        "ctfidf_keywords": "david | kiaraho | treatment | receiving | kalou | while | iranian | njuguna",
+        "location_name": "india",
+        "umap_x": 11.82906,
+        "umap_y": 7.6276407
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038177107608510973",
+        "text": "Breaking news \r\n\r\nThe Ol Kalou MP David Kiaraho dies while receiving treatment in India. https://t.co/dR4bNOJZ14",
+        "created_at": "2026-03-29 08:51:04+00:00",
+        "cluster_label": "Global Conflict And Politics",
+        "cluster_title": "MP David Kiaraho Death",
+        "ctfidf_keywords": "david | kiaraho | treatment | receiving | kalou | while | iranian | njuguna",
+        "location_name": "india",
+        "umap_x": 7.3206143,
+        "umap_y": 4.369067
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038172639764660444",
+        "text": "BREAKING NEWS: Ol Kalou MP David Njuguna Kiaraho Dies in India while receiving treatment. https://t.co/bat69BFOF4",
+        "created_at": "2026-03-29 08:33:19+00:00",
+        "cluster_label": "Global Conflict And Politics",
+        "cluster_title": "MP David Kiaraho Death",
+        "ctfidf_keywords": "david | kiaraho | treatment | receiving | kalou | while | iranian | njuguna",
+        "location_name": "india",
+        "umap_x": 11.905636,
+        "umap_y": 7.403294
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038191157662920759",
+        "text": "🚨BREAKING NEWS! Ol Kalou MP David Njuguna Kiaraho has died while undergoing treatment in India. https://t.co/I5HfZjNAlE",
+        "created_at": "2026-03-29 09:46:54+00:00",
+        "cluster_label": "Global Conflict And Politics",
+        "cluster_title": "MP David Kiaraho Death",
+        "ctfidf_keywords": "david | kiaraho | treatment | receiving | kalou | while | iranian | njuguna",
+        "location_name": "india",
+        "umap_x": 9.975139,
+        "umap_y": 5.259662
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038178905173942466",
+        "text": "BREAKING NEWS: Ol Kalou MP David Njuguna Kiaraho has died while receiving treatment in India.\r\n\r\nMay he RIP.🕊 https://t.co/yqGqGW2ksn",
+        "created_at": "2026-03-29 08:58:13+00:00",
+        "cluster_label": "Global Conflict And Politics",
+        "cluster_title": "MP David Kiaraho Death",
+        "ctfidf_keywords": "david | kiaraho | treatment | receiving | kalou | while | iranian | njuguna",
+        "location_name": "india",
+        "umap_x": 10.967415,
+        "umap_y": 4.7320895
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038207763487088875",
+        "text": "BREAKING NEWS: Ol Kalou MP David Njuguna Kiaraho has died while receiving treatment in India.\r\n\r\nHe has been MP for three consecutive terms from 2013 up to now.\r\n\r\nMay he RIP.🙏 https://t.co/aoDp6K8pjS",
+        "created_at": "2026-03-29 10:52:53+00:00",
+        "cluster_label": "Global Conflict And Politics",
+        "cluster_title": "MP David Kiaraho Death",
+        "ctfidf_keywords": "david | kiaraho | treatment | receiving | kalou | while | iranian | njuguna",
+        "location_name": "india",
+        "umap_x": 3.1859086,
+        "umap_y": 9.758086
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038167882375291141",
+        "text": "BREAKING NEWS: Ol Kalou MP David Njuguna Kiaraho dies while receiving treatment in India.\r\n\r\nHe has been the MP for three consecutive terms from 2013 up to now.\r\n\r\nMay His Soul Rest in Peace 🙏😭 https://t.co/aQPmrn20dC",
+        "created_at": "2026-03-29 08:14:25+00:00",
+        "cluster_label": "Global Conflict And Politics",
+        "cluster_title": "MP David Kiaraho Death",
+        "ctfidf_keywords": "david | kiaraho | treatment | receiving | kalou | while | iranian | njuguna",
+        "location_name": "india",
+        "umap_x": 10.957813,
+        "umap_y": 4.787797
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038302774111142033",
+        "text": "BREAKING NEWS! Ol Kalou MP David Njuguna Kiaraho has died while undergoing treatment in India.\r\n\r\nHe served as Member of Parliament for Ol Kalou for three consecutive terms, from 2013 until his death. https://t.co/aOqJrR5IDl",
+        "created_at": "2026-03-29 17:10:25+00:00",
+        "cluster_label": "Kenyan Mp Death",
+        "cluster_title": "Kenyan MP David Njuguna Kiaraho Death",
+        "ctfidf_keywords": "treatment | kiaraho | kalou | while | david | njuguna | receiving | dies",
+        "location_name": "india",
+        "umap_x": 7.160338,
+        "umap_y": 3.9187245
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038164722323702076",
+        "text": "BREAKING NEWS! Ol Kalou MP David Njuguna Kiaraho has died while undergoing treatment in India.\r\n\r\nHe served as Member of Parliament for Ol Kalou for three consecutive terms, from 2013 until his death.\r\n\r\nHe was one of the only two MPs elected on a Jubilee Party ticket in the former https://t.co/zLBsxjUPNu",
+        "created_at": "2026-03-29 08:01:51+00:00",
+        "cluster_label": "Kenyan Mp Death",
+        "cluster_title": "Kenyan MP David Njuguna Kiaraho Death",
+        "ctfidf_keywords": "treatment | kiaraho | kalou | while | david | njuguna | receiving | dies",
+        "location_name": "india",
+        "umap_x": 9.945329,
+        "umap_y": 5.3934784
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038177531992404385",
+        "text": "BREAKING NEWS!!\r\n\r\nOlkalou MP David Njuguna Kiaraho has passed on while undergoing treatment in India.\r\n\r\nHe served as MP for Ol Kalou for three consecutive terms, from 2013 until his demise.\r\n\r\nHe was elected on a Jubilee Party ticket 2022 General Election.\r\n\r\nR.I.P mhesh. https://t.co/IR4oUu9baE",
+        "created_at": "2026-03-29 08:52:45+00:00",
+        "cluster_label": "Kenyan Mp Death",
+        "cluster_title": "Kenyan MP David Njuguna Kiaraho Death",
+        "ctfidf_keywords": "treatment | kiaraho | kalou | while | david | njuguna | receiving | dies",
+        "location_name": "india",
+        "umap_x": 11.468897,
+        "umap_y": 6.6172867
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038170118484558190",
+        "text": "BREAKING NEWS: Ol Kalou Member of Parliament, David Njuguna Kiaraho, is dead. The lawmaker died on Sunday, March 29, 2026, while receiving specialised treatment in a hospital in India. \r\n\r\nKiaraho was first elected in 2013 and successfully defended his seat in 2017 and 2022. https://t.co/oN3qtgRtjv",
+        "created_at": "2026-03-29 08:23:18+00:00",
+        "cluster_label": "Kenyan Mp Death",
+        "cluster_title": "Kenyan MP David Njuguna Kiaraho Death",
+        "ctfidf_keywords": "treatment | kiaraho | kalou | while | david | njuguna | receiving | dies",
+        "location_name": "india",
+        "umap_x": 11.7493,
+        "umap_y": 7.232481
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038168869421060256",
+        "text": "KULEVYA NEWS\r\nBreaking: Ol Kalou MP Hon. David Njuguna Kiaraho has passed away while undergoing treatment in India. The legislator, who notably voted YES on the Finance Bill, had been unwell for some time. May his soul rest in peace. https://t.co/b9tHZDvk7c",
+        "created_at": "2026-03-29 08:18:20+00:00",
+        "cluster_label": "Kenyan Mp Death",
+        "cluster_title": "Kenyan MP David Njuguna Kiaraho Death",
+        "ctfidf_keywords": "treatment | kiaraho | kalou | while | david | njuguna | receiving | dies",
+        "location_name": "india",
+        "umap_x": 11.012784,
+        "umap_y": 4.782583
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038174748954288226",
+        "text": "Breaking News; Rest in Peace Ol Kalou MP David Njuguna Kiaraho who has Died While Receiving Treatment in India. https://t.co/4N8ffWqbdJ",
+        "created_at": "2026-03-29 08:41:42+00:00",
+        "cluster_label": "Kenyan Mp Death",
+        "cluster_title": "Kenyan MP David Njuguna Kiaraho Death",
+        "ctfidf_keywords": "treatment | kiaraho | kalou | while | david | njuguna | receiving | dies",
+        "location_name": "india",
+        "umap_x": 6.759074,
+        "umap_y": 3.8261883
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038173882419405142",
+        "text": "BREAKING NEWS: Ol Kalou MP David Njuguna Kiaraho Dies in India\r\nMay the family feel easy during this tough moments",
+        "created_at": "2026-03-29 08:38:15+00:00",
+        "cluster_label": "Kenyan Mp Death",
+        "cluster_title": "Kenyan MP David Njuguna Kiaraho Death",
+        "ctfidf_keywords": "treatment | kiaraho | kalou | while | david | njuguna | receiving | dies",
+        "location_name": "india",
+        "umap_x": 9.467482,
+        "umap_y": 3.631643
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038169226192502882",
+        "text": "Breaking News: Ol Kalou MP David Njuguna Kiaraho Dies While Receiving Treatment in India. May he RIP\r\n\r\nAnother Bi- election in Mt. Kenya, Gachagua Vs Kindiki one more time https://t.co/HhjkCGqhLk",
+        "created_at": "2026-03-29 08:19:45+00:00",
+        "cluster_label": "Kenyan Mp Death",
+        "cluster_title": "Kenyan MP David Njuguna Kiaraho Death",
+        "ctfidf_keywords": "treatment | kiaraho | kalou | while | david | njuguna | receiving | dies",
+        "location_name": "india",
+        "umap_x": 9.497847,
+        "umap_y": 4.078951
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038170417270268320",
+        "text": "BREAKING SAD 😭 NEWS: We are receiving very disheartening News of passing on of Olkolou Member of Parliament Hon David Kiaraho while receiving treatment in India.\r\nRIEP Hon Kiaraho. https://t.co/axwWrVfEja",
+        "created_at": "2026-03-29 08:24:29+00:00",
+        "cluster_label": "Kenyan Mp Death",
+        "cluster_title": "Kenyan MP David Njuguna Kiaraho Death",
+        "ctfidf_keywords": "treatment | kiaraho | kalou | while | david | njuguna | receiving | dies",
+        "location_name": "india",
+        "umap_x": 9.694547,
+        "umap_y": 3.6607711
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038163546907758968",
+        "text": "📍Breaking News🚨\r\nA Kenyan MP Dies While Receiving Treatment in India.",
+        "created_at": "2026-03-29 07:57:11+00:00",
+        "cluster_label": "Kenyan Mp Death",
+        "cluster_title": "Kenyan MP David Njuguna Kiaraho Death",
+        "ctfidf_keywords": "treatment | kiaraho | kalou | while | david | njuguna | receiving | dies",
+        "location_name": "india",
+        "umap_x": 9.620421,
+        "umap_y": 4.8576717
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038165059432554799",
+        "text": "BREAKING NEWS \r\n\r\nAn MP dies while receiving treatment in India",
+        "created_at": "2026-03-29 08:03:12+00:00",
+        "cluster_label": "Kenyan Mp Death",
+        "cluster_title": "Kenyan MP David Njuguna Kiaraho Death",
+        "ctfidf_keywords": "treatment | kiaraho | kalou | while | david | njuguna | receiving | dies",
+        "location_name": "india",
+        "umap_x": 6.3738933,
+        "umap_y": 3.5540857
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038183912749273094",
+        "text": "BREAKING NEWS: MP Dies While Receiving Treatment in India​​, @standard #motoreview",
+        "created_at": "2026-03-29 09:18:07+00:00",
+        "cluster_label": "Kenyan Mp Death",
+        "cluster_title": "Kenyan MP David Njuguna Kiaraho Death",
+        "ctfidf_keywords": "treatment | kiaraho | kalou | while | david | njuguna | receiving | dies",
+        "location_name": "india",
+        "umap_x": 11.407159,
+        "umap_y": 6.4038434
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038165662997037441",
+        "text": "🚨BREAKING NEWS: Shock as Another MP Dies While Undergoing Treatment in India\r\nhttps://t.co/uWHAzkdard",
+        "created_at": "2026-03-29 08:05:36+00:00",
+        "cluster_label": "Kenyan Mp Death",
+        "cluster_title": "Kenyan MP David Njuguna Kiaraho Death",
+        "ctfidf_keywords": "treatment | kiaraho | kalou | while | david | njuguna | receiving | dies",
+        "location_name": "india",
+        "umap_x": 9.906272,
+        "umap_y": 4.569347
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038280352502849892",
+        "text": "Breaking news. India \r\nJournalist \r\nIndian Muslim people don’t like Israel 🥳🥳🥳 https://t.co/LcW6ZTvYGG",
+        "created_at": "2026-03-29 15:41:20+00:00",
+        "cluster_label": "Politics",
+        "cluster_title": "Conservative News and Commentary",
+        "ctfidf_keywords": "hegseth | army | fox | randy | george | pete | trump | chief",
+        "location_name": "india",
+        "umap_x": 6.462515,
+        "umap_y": 3.7909813
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          55.1885387,
+          25.0742823
+        ]
+      },
+      "properties": {
+        "id": "2039846064182665411",
+        "text": "‼️🇦🇪🇮🇷 Breaking News - United Arab Emirates denies report that Oracle data center was attacked in Dubai !",
+        "created_at": "2026-04-02 23:22:54+00:00",
+        "cluster_label": "Politics",
+        "cluster_title": "Conservative News and Commentary",
+        "ctfidf_keywords": "hegseth | army | fox | randy | george | pete | trump | chief",
+        "location_name": "dubai",
+        "umap_x": 6.4277854,
+        "umap_y": 3.8260722
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.4979476,
+          29.2733964
+        ]
+      },
+      "properties": {
+        "id": "2039823931457282467",
+        "text": "🚨 Breaking News ‼️\r\n\r\nExplosions in Kuwait as a result of a drone attack",
+        "created_at": "2026-04-02 21:54:58+00:00",
+        "cluster_label": "Politics",
+        "cluster_title": "Conservative News and Commentary",
+        "ctfidf_keywords": "hegseth | army | fox | randy | george | pete | trump | chief",
+        "location_name": "kuwait",
+        "umap_x": 9.782912,
+        "umap_y": 3.6087754
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          54.5643516,
+          32.6475314
+        ]
+      },
+      "properties": {
+        "id": "2039871928815468687",
+        "text": "⚡ BREAKING: Explosions reported near an Iranian Revolutionary Guard base in southwestern Iran, according to local news sources. #IRGC #Drone #Iran",
+        "created_at": "2026-04-03 01:05:41+00:00",
+        "cluster_label": "Politics",
+        "cluster_title": "Conservative News and Commentary",
+        "ctfidf_keywords": "hegseth | army | fox | randy | george | pete | trump | chief",
+        "location_name": "iran",
+        "umap_x": 9.838067,
+        "umap_y": 3.5796154
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          47.4979476,
+          29.2733964
+        ]
+      },
+      "properties": {
+        "id": "2039832215266430997",
+        "text": "🚨 Breaking News ‼️\r\n\r\nAnother explosion rocks US occupation bases in Kuwait",
+        "created_at": "2026-04-02 22:27:53+00:00",
+        "cluster_label": "Politics",
+        "cluster_title": "Conservative News and Commentary",
+        "ctfidf_keywords": "hegseth | army | fox | randy | george | pete | trump | chief",
+        "location_name": "kuwait",
+        "umap_x": 9.716374,
+        "umap_y": 4.7040977
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.445882,
+          39.7837304
+        ]
+      },
+      "properties": {
+        "id": "2039851792566210968",
+        "text": "🚨 🚨Breaking News 🚀🚀\r\n\r\nFor the third consecutive time and within less than 5 minutes, targeting the U.S. occupation bases in Erbil",
+        "created_at": "2026-04-02 23:45:40+00:00",
+        "cluster_label": "Politics",
+        "cluster_title": "Conservative News and Commentary",
+        "ctfidf_keywords": "hegseth | army | fox | randy | george | pete | trump | chief",
+        "location_name": "us",
+        "umap_x": 11.000105,
+        "umap_y": 4.913307
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -102.0077097,
+          23.6585116
+        ]
+      },
+      "properties": {
+        "id": "2039848932985934322",
+        "text": "🚨Breaking News🚨\r\n🔥April 02, 2026🔥\r\n ⚽️Daily World Cup Briefing ⚽️–\r\n🇲🇽Group A Focus🇲🇽\r\n\r\nGood afternoon, WC Chronicles fam! April 2 and we kick off our new Group-by-Group Daily Series with Group A. The four teams already confirmed in Group A are: Mexico (co-host), Czech Republic,",
+        "created_at": "2026-04-02 23:34:18+00:00",
+        "cluster_label": "International Sports",
+        "cluster_title": "Landon Hairston Sports Updates",
+        "ctfidf_keywords": "group | mexico | manchester | landon | hairston | groundout | asu | belgium",
+        "location_name": "mexico",
+        "umap_x": 6.2883325,
+        "umap_y": 3.805813
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.6244212,
+          41.8755616
+        ]
+      },
+      "properties": {
+        "id": "2039820533605224706",
+        "text": "🚨🔥Breaking News🔥🚨\r\n🇲🇽Mexico 1-1 🇧🇪Belgium!\r\n⚽️Sánchez Opener Cancelled by Lukebakio in Chicago Thriller⚽️\r\nA tense, end-to-end battle at Soldier Field!\r\n\r\nIn a hard-fought international friendly on March 31, 2026, Javier Aguirre’s Mexico drew 1-1 with Rudi Garcia’s Belgium. Jorge",
+        "created_at": "2026-04-02 21:41:27+00:00",
+        "cluster_label": "International Sports",
+        "cluster_title": "Landon Hairston Sports Updates",
+        "ctfidf_keywords": "group | mexico | manchester | landon | hairston | groundout | asu | belgium",
+        "location_name": "chicago",
+        "umap_x": 10.095701,
+        "umap_y": 4.615375
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038311627418910801",
+        "text": "X App in India:\r\n\r\n- Often ranks as a top news app in the Indian App Store.\r\n- One of the world's largest markets for overall app installs.\r\n- Averaging 24 to 26 million active users.\r\n- That's just 1.7% of the population.\r\n- Ranks 3rd globally\r\n- Driven largely by breaking news, https://t.co/GqIB13lNWs",
+        "created_at": "2026-03-29 17:45:36+00:00",
+        "cluster_label": "Indian Tech",
+        "cluster_title": "Tech Industry Business Updates",
+        "ctfidf_keywords": "app | pulling | ranks | oneplus | physical | retail | expands | service",
+        "location_name": "india",
+        "umap_x": 6.623088,
+        "umap_y": 3.7606664
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.6677428,
+          22.3511148
+        ]
+      },
+      "properties": {
+        "id": "2038307598102135244",
+        "text": "Breaking News 🚨 \r\n\r\nA decade ago, India could manufacture just 3 GW of solar modules. \r\n\r\nToday, capacity has reached 172 GW, with 10,000 homes going solar every day. https://t.co/BE4UkR1hda",
+        "created_at": "2026-03-29 17:29:35+00:00",
+        "cluster_label": "Infrastructure",
+        "cluster_title": "Bengaluru Traffic and Infrastructure Updates",
+        "ctfidf_keywords": "traffic | bengaluru | 810 | crore | junction | ease | boost | connectivity",
+        "location_name": "india",
+        "umap_x": 9.181147,
+        "umap_y": 4.9391932
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -100.445882,
+          39.7837304
+        ]
+      },
+      "properties": {
+        "id": "2039896564945035508",
+        "text": "Hey world, did you see this BREAKING news today?\r\n\r\nIn case you didn’t, Iranian students and professionals who came to the U.S. and followed the legal process step by step have now been stuck in limbo for more than 4 months.\r\n\r\nMany Ph.D. students have already spent 5 years in the",
+        "created_at": "2026-04-03 02:43:35+00:00",
+        "cluster_label": "Global Conflict And Politics",
+        "cluster_title": "MP David Kiaraho Death",
+        "ctfidf_keywords": "david | kiaraho | treatment | receiving | kalou | while | iranian | njuguna",
+        "location_name": "us",
+        "umap_x": 11.691397,
+        "umap_y": 6.548897
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -98.5821872,
+          38.27312
+        ]
+      },
+      "properties": {
+        "id": "2039881740387295459",
+        "text": "Kansas forward Flory Bidunga plans to enter the NCAA transfer portal. Bidunga is also planning on declaring for the NBA draft.\r\n\r\nFollow @courtlinemedia for more breaking news!",
+        "created_at": "2026-04-03 01:44:40+00:00",
+        "cluster_label": "International Sports",
+        "cluster_title": "Landon Hairston Sports Updates",
+        "ctfidf_keywords": "group | mexico | manchester | landon | hairston | groundout | asu | belgium",
+        "location_name": "kansas",
+        "umap_x": 9.069981,
+        "umap_y": 4.3468785
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.201099,
+          55.4142529
+        ]
+      },
+      "properties": {
+        "id": "2039839147775631832",
+        "text": "Breaking News: Mid-Afternoon, April 2, 2026\r\nThe global landscape this afternoon is dominated by a volatile situation in the Middle East and the economic ripple effects felt across world markets…",
+        "created_at": "2026-04-02 22:55:25+00:00",
+        "cluster_label": "Global Conflict And Politics",
+        "cluster_title": "MP David Kiaraho Death",
+        "ctfidf_keywords": "david | kiaraho | treatment | receiving | kalou | while | iranian | njuguna",
+        "location_name": "the middle east",
+        "umap_x": 11.875705,
+        "umap_y": 7.6772337
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.7818064,
+          32.0852997
+        ]
+      },
+      "properties": {
+        "id": "2039865411387208183",
+        "text": "🚨BREAKING NEWS: Sirens sounding across Tel Aviv.",
+        "created_at": "2026-04-03 00:39:47+00:00",
+        "cluster_label": "Global Conflict And Politics",
+        "cluster_title": "MP David Kiaraho Death",
+        "ctfidf_keywords": "david | kiaraho | treatment | receiving | kalou | while | iranian | njuguna",
+        "location_name": "tel aviv",
+        "umap_x": 11.619426,
+        "umap_y": 6.4791164
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -84.3898151,
+          33.7544657
+        ]
+      },
+      "properties": {
+        "id": "2039889817845072046",
+        "text": "Breaking News. Atlanta News reports that the Atlanta Transportation Authority has installed a new stop light at the University access ramp to 75/85 to control traffic flow. \r\nUnfortunately the traffic light has potentially become a traffic hazard. ATA has concluded that flashing",
+        "created_at": "2026-04-03 02:16:46+00:00",
+        "cluster_label": "Indian Traffic Issues",
+        "cluster_title": "Traffic and Transportation Frustrations",
+        "ctfidf_keywords": "traffic | light | atlanta | bengaluru | seriously | transportation | installed | university",
+        "location_name": "atlanta",
+        "umap_x": 9.192026,
+        "umap_y": 4.084591
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -80.2782636,
+          36.1337324
+        ]
+      },
+      "properties": {
+        "id": "2039834082511827340",
+        "text": "Breaking- Per Fox News Tiger was seen on the phone awaiting arrival of police.\r\n\r\nGuess who the first call he made ~ President of the United States Donald J. Trump. \r\n\r\nAsking (Trump)  him to intervene and stop the arrest.\r\n\r\n😳",
+        "created_at": "2026-04-02 22:35:18+00:00",
+        "cluster_label": "Politics",
+        "cluster_title": "Conservative News and Commentary",
+        "ctfidf_keywords": "hegseth | army | fox | randy | george | pete | trump | chief",
+        "location_name": "the united states",
+        "umap_x": 12.260017,
+        "umap_y": 7.410445
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -9.0561707,
+          53.2845559
+        ]
+      },
+      "properties": {
+        "id": "2039836552491102677",
+        "text": "Breaking News:\r\n\r\nSad news: \r\n\r\nManchester United are saddened to learn of the passing of Eamonn Boylan OBE.\r\n\r\nA widely respected public servant and former Chief Executive of the Greater Manchester Combined Authority, Eamonn was also a lifelong Manchester United supporter and",
+        "created_at": "2026-04-02 22:45:07+00:00",
+        "cluster_label": "International Sports",
+        "cluster_title": "Landon Hairston Sports Updates",
+        "ctfidf_keywords": "group | mexico | manchester | landon | hairston | groundout | asu | belgium",
+        "location_name": "eamonn",
+        "umap_x": 9.036556,
+        "umap_y": 4.204727
+      }
+    }
+  ]
+}

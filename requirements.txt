@@ -1,0 +1,11 @@
+pandas
+numpy
+openai
+umap-learn
+spacy
+geopy
+fastapi
+uvicorn
+scikit-learn
+tqdm
+langdetect

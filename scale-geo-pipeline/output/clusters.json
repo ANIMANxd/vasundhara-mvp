@@ -1,0 +1,93 @@
+[
+  {
+    "cluster_label": "Politics",
+    "cluster_title": "Conservative News and Commentary",
+    "ctfidf_keywords": "hegseth | army | fox | randy | george | pete | trump | chief",
+    "total_posts": 62,
+    "geocoded_posts": 23
+  },
+  {
+    "cluster_label": "Tier 1 City Problems",
+    "cluster_title": "Bengaluru Traffic and IPL Updates",
+    "ctfidf_keywords": "traffic | bengaluru | ipl | match | police | rcb | road | parking",
+    "total_posts": 41,
+    "geocoded_posts": 14
+  },
+  {
+    "cluster_label": "Global Conflict And Politics",
+    "cluster_title": "MP David Kiaraho Death",
+    "ctfidf_keywords": "david | kiaraho | treatment | receiving | kalou | while | iranian | njuguna",
+    "total_posts": 29,
+    "geocoded_posts": 22
+  },
+  {
+    "cluster_label": "Kenyan Mp Death",
+    "cluster_title": "Kenyan MP David Njuguna Kiaraho Death",
+    "ctfidf_keywords": "treatment | kiaraho | kalou | while | david | njuguna | receiving | dies",
+    "total_posts": 13,
+    "geocoded_posts": 13
+  },
+  {
+    "cluster_label": "International Sports",
+    "cluster_title": "Landon Hairston Sports Updates",
+    "ctfidf_keywords": "group | mexico | manchester | landon | hairston | groundout | asu | belgium",
+    "total_posts": 8,
+    "geocoded_posts": 4
+  },
+  {
+    "cluster_label": "Infrastructure",
+    "cluster_title": "Bengaluru Traffic and Infrastructure Updates",
+    "ctfidf_keywords": "traffic | bengaluru | 810 | crore | junction | ease | boost | connectivity",
+    "total_posts": 7,
+    "geocoded_posts": 2
+  },
+  {
+    "cluster_label": "Cryptocurrency News",
+    "cluster_title": "Crypto Market Support News",
+    "ctfidf_keywords": "market | crypto | support | coin | filter | profit | prediction | bet",
+    "total_posts": 6,
+    "geocoded_posts": 1
+  },
+  {
+    "cluster_label": "Social Media",
+    "cluster_title": "Breaking News Satire and Memes",
+    "ctfidf_keywords": "viral | bareilly | social | awareness | whats | looking | his | public",
+    "total_posts": 6,
+    "geocoded_posts": 2
+  },
+  {
+    "cluster_label": "Entertainment",
+    "cluster_title": "Breaking News Satire and Humor",
+    "ctfidf_keywords": "break | taking | persona | reload | eat | korean | bbq | super",
+    "total_posts": 5,
+    "geocoded_posts": 0
+  },
+  {
+    "cluster_label": "Indian Tech",
+    "cluster_title": "Tech Industry Business Updates",
+    "ctfidf_keywords": "app | pulling | ranks | oneplus | physical | retail | expands | service",
+    "total_posts": 4,
+    "geocoded_posts": 2
+  },
+  {
+    "cluster_label": "Indian Traffic Issues",
+    "cluster_title": "Traffic and Transportation Frustrations",
+    "ctfidf_keywords": "traffic | light | atlanta | bengaluru | seriously | transportation | installed | university",
+    "total_posts": 4,
+    "geocoded_posts": 1
+  },
+  {
+    "cluster_label": "Artificial Intelligence",
+    "cluster_title": "AI Model Deals and Controversies",
+    "ctfidf_keywords": "models | over | gtalibaba | drops | gtperplexity | sued | sharing | chats",
+    "total_posts": 2,
+    "geocoded_posts": 1
+  },
+  {
+    "cluster_label": "Economy",
+    "cluster_title": "Mondelez Industry Labor Agreement",
+    "ctfidf_keywords": "mondelez | maker | oreo | milk | industry | union | agreement | guarantee",
+    "total_posts": 1,
+    "geocoded_posts": 0
+  }
+]
